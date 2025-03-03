@@ -1,1 +1,1 @@
-# grote balzak
+print('Hello World')
